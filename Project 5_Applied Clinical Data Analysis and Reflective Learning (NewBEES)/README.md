@@ -22,7 +22,7 @@ Through regression and visualization, the analysis indicates a positive associat
 
 Reflection:
 
-The reflective component identifies how deliberate practice—slowing down to analyze each line of code—leads to improved comprehension and reduced anxiety in data analysis tasks. Working with familiar and engaging data, such as baseball statistics earlier in the course, reinforced the connection between passion and learning efficacy, ultimately shaping a more confident and intentional approach to data science.
+The reflective component identifies how deliberate practice that includes slowing down to analyze each line of code leads to improved comprehension and reduced anxiety in data analysis tasks. Working with familiar and engaging data, such as baseball statistics earlier in the course, reinforced the connection between passion and learning efficacy, ultimately shaping a more confident and intentional approach to data science.
 
 Keywords: 
 
