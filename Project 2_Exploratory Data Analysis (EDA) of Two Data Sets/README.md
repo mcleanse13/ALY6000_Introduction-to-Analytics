@@ -1,4 +1,4 @@
-Project 2 – Exploratory Data Analysis (EDA) of Two Data Sets
+Project 2 – Exploratory Data Analysis (EDA) of Two Data Sets On World Happiness and MLB Batting Statistics
 
 Course: ALY 6000 – Introduction to Analytics
 Tools Used: R, Tidyverse, Janitor, Testthat, Pacman
