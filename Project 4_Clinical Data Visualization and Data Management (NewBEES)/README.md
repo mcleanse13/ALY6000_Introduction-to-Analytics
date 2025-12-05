@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 This project explores a multi-part R programming workflow for descriptive statistics, visualization, and data management using clinical and health-related datasets. The analysis examines relationships between tumor size, inpatient days, and gender using regression and visualization techniques, then transitions into advanced data manipulation tasks focused on data cleaning, variable transformation, and handling missing values.
 
 Methods and Tools
