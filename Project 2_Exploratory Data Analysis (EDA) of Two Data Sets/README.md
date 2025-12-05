@@ -9,24 +9,6 @@ This project is divided into two major parts, each focused on hands-on data wran
 You will explore, clean, and summarize two datasets — 2015.csv (World Happiness data) and baseball.csv (Major League Baseball batting stats from 1986).
 The goal is to demonstrate proficiency with Tidyverse functions such as select(), filter(), mutate(), summarize(), and grouping operations using group_by().
 
-Setup
-
-Before starting:
-
-Create an R Project named Lastname_Project2.
-
-Create a script Lastname_Project2.R inside the R folder.
-
-Add both datasets (2015.csv and baseball.csv) to the project directory.
-
-Load all necessary packages using the Pacman loader:
-
-library(pacman)
-p_load(tidyverse, janitor, testthat)
-
-
-Include boilerplate code to clear the environment, console, and plots before each run.
-
 Part 1 – World Happiness Data (2015.csv)
 Objective:
 
