@@ -16,9 +16,12 @@ Key Learning Objectives:
 
 - Develop categorical encodings and transformations for health metrics.
 
-Utilize visualization techniques (strip charts, scatter plots) to reveal trends and outliers in healthcare data.
+- Utilize visualization techniques (strip charts, scatter plots) to reveal trends and outliers in healthcare data.
 
 Summary of Findings:
+
 Through scatterplot analyses, the data revealed positive relationships between tumor size and inpatient recovery days, with noticeable variance across gender. Additional descriptive statistics and strip charts demonstrated differences between actual and normally distributed inpatient days, suggesting non-normality and variability among patients. Data management procedures ensured a cleaner dataset by removing incomplete cases and reclassifying categorical variables for downstream analysis.
 
-Keywords: R programming, data visualization, clinical analytics, data wrangling, descriptive statistics, ggplot2, dplyr
+Keywords: 
+
+R programming, data visualization, clinical analytics, data wrangling, descriptive statistics, ggplot2, dplyr
